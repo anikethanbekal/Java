@@ -17,7 +17,7 @@ public class Pattern24{
 			{
 				if (i+j>=(n-1))
 					System.out.print(c);
-				else
+				else 
 					System.out.print(" ");
 			}
 			System.out.println();

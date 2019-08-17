@@ -16,7 +16,7 @@ public class Pattern23{
 			for (int j =0;j<n;j++)
 			{
 				if (i+j<=(n-1))
-					System.out.print(c+ " ");
+					System.out.print(c+ " "); 
 			}
 			System.out.println();
 			c++;

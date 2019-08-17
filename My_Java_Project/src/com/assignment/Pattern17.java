@@ -5,7 +5,7 @@
  *K L M N O
  */
 package com.assignment;
-
+ 
 public class Pattern17{
 
 	public static void main(String[] args) {

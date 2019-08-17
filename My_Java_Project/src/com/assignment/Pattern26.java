@@ -1,7 +1,7 @@
 /*A A A A A
  *	* * * *
  *	  B B B 
- *      * *
+ *      * * 
  *        C
  */
 package com.assignment;

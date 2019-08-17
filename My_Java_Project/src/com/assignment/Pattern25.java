@@ -4,7 +4,7 @@
  * * * * *
  * C C C C C
  */
-package com.assignment;
+package com.assignment; 
 
 public class Pattern25{
 
