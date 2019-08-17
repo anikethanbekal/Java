@@ -3,7 +3,7 @@
  *    3 3 3
  *      4 4
  *        5
- */
+ */ 
 package com.assignment;
 
 public class Pattern06 {
