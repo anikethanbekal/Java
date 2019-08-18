@@ -9,7 +9,7 @@ public class CheckEvenUsingTwoMethods {
 	public static boolean isEven(int a)
 	{
 		if (a%2==0)
-			return true;
+			return true; 
 		else
 			return false;
 	}

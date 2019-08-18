@@ -5,7 +5,7 @@ public class DisplayEven {
     //printEven method to check and display the output
 	public static void printEven(int a, int b){
 		for(; a<b; a++)
-			{
+			{ 
 			if (a%2==0)
 			System.out.println(a);
 			}
