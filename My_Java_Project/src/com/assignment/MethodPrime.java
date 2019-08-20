@@ -24,7 +24,7 @@ public class MethodPrime {
 	}
 	//Method to give input
 	public static void main(String[] args) {
-		printPrime(255);
+		printPrime(25);
 
 	}
 
