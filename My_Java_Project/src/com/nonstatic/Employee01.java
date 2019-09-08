@@ -1,3 +1,8 @@
+/*WAP to design the following scenarios 
+ * create a class known as employee01 having following properties i)ID ii)name iii) salary
+ * design two constructors one is parametrized and other non parameterized.
+ * create the object of employee01 in another classs known as company
+ */
 package com.nonstatic;
 
 public class Employee01 {
